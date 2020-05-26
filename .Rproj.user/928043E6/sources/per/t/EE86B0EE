@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590477980060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1207026897",
+    "id" : "EE86B0EE",
+    "lastKnownWriteTime" : 1590499293,
+    "last_content_update" : 1590499293724,
+    "path" : "~/GitHub/108bigdatacguim-hw1-zhiting-Xue/SalaryAnalysis.Rmd",
+    "project_path" : "SalaryAnalysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "120,0",
+        "scrollLine" : "111",
+        "working_dir" : "current"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

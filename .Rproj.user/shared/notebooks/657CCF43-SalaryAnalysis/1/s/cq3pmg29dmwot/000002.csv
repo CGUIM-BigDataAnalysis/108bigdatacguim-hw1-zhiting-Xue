@@ -1,0 +1,54 @@
+"0","install.packages(""jsonlite"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","Installing package into ¡¥C:/Users/Owner/Documents/R/win-library/3.6¡¦
+(as ¡¥lib¡¦ is unspecified)
+"
+"2","å˜—è©¦ URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/jsonlite_1.6.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1165606 bytes (1.1 MB)
+"
+"2","downloaded 1.1 MB
+
+"
+"1","package â€˜jsonliteâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Owner\AppData\Local\Temp\RtmpO6jOXl\downloaded_packages"
+"1",""
+"1","
+"
+"0","library(jsonlite)"
+"2","package ¡¥jsonlite¡¦ was built under R version 3.6.3"
+"0","install.packages(""dplyr"")"
+"1","Error in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," : "
+"1",""
+"1","Updating loaded packages"
+"1",""
+"1","
+"
+"0","library(dplyr)"
+"0","install.packages(""knitr"")"
+"1","Error in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," : "
+"1",""
+"1","Updating loaded packages"
+"1",""
+"1","
+"
+"0","library(knitr)"
+"2","package ¡¥knitr¡¦ was built under R version 3.6.3"
+"0","library(knitr)"

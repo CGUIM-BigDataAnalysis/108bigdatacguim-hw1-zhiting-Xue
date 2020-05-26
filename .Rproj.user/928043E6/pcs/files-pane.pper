@@ -1,0 +1,13 @@
+{
+    "path" : "~/GitHub/108bigdatacguim-hw1-zhiting-Xue",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

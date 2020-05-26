@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590477978376.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3821645553",
+    "id" : "CF172BE2",
+    "lastKnownWriteTime" : 1590487202,
+    "last_content_update" : 1590487202265,
+    "path" : "~/GitHub/108bigdatacguim-hw1-zhiting-Xue/DataAnalysis.R",
+    "project_path" : "DataAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "84,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,19 @@
+"0","#107(.x)&104(.y)大學薪資
+X107104$`大學-薪資.x`<-as.numeric(X107104$`大學-薪資.x`)
+X107104$`大學-薪資.y`<-as.numeric(X107104$`大學-薪資.y`)
+
+#找出大學薪資107>104的所有職業別
+#新增一欄位Billy(比例)計算增高比例
+X7win4<-filter(X107104,X107104$`大學-薪資.x`>X107104$`大學-薪資.y`)
+X7win4<-mutate(X7win4,Billy=`大學-薪資.x`/`大學-薪資.y`)
+
+#由大至小列出前10筆資料的大職業別及其增高比例
+knitr::kable(head(X7win4[order(X7win4$Billy,decreasing = T),
+                 c(""大職業別"",""Billy"")],10))
+"
+"2","Registered S3 methods overwritten by 'htmltools':
+  method               from         
+  print.html           tools:rstudio
+  print.shiny.tag      tools:rstudio
+  print.shiny.tag.list tools:rstudio
+"
